@@ -1,5 +1,5 @@
 # SNLP-XAI-Project
-SHAP implementatio for the explainable AI for attention based model based for the Kaggle English Language Learning competition. 
+SHAP values implementation for an attention based model for the Kaggle English Language Learning competition. 
 
 Contacts: 
 
