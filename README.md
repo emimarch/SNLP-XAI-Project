@@ -4,5 +4,6 @@ SHAP implementatio for the explainable AI for attention based model based for th
 Contacts: 
 
 rafeal.leal@aalto.fi
+
 emilia.marchese@aalto.fi
 
